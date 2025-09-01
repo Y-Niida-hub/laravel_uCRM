@@ -1,5 +1,5 @@
 <script setup>
-import { Inertia } from '@inertiajs/inertia';
+import { Inertia } from '@inertiajs/inertia-vue3';
 
 
 defineProps({
