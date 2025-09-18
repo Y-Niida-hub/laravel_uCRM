@@ -1,7 +1,7 @@
 <script setup>
 import BreezeAuthenticatedLayout from '@/Layouts/AuthenticatedLayout.vue';
 import { Head, Link } from '@inertiajs/inertia-vue3';
-import { nl2br } from '@/commpn.js';
+import { nl2br } from '@/common.js';
 import { Inertia } from '@inertiajs/inertia';
 
 
